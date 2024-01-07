@@ -1,3 +1,7 @@
+**NOTE: the Omaha Proxy service has been permanently shut down, and the API is
+no longer available. If you need to still get the versions, [please see this
+fork of the project](https://github.com/chromedp/verhist).**
+
 # omahaproxy
 
 Package `omahaproxy` provides a simple client to retrieve data from [Omaha
